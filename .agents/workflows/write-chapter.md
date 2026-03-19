@@ -12,7 +12,9 @@ Follow these steps when drafting a chapter:
 
 3. **Read adjacent chapters** — at minimum, read the chapter before and after the one you're writing to maintain continuity and avoid repetition.
 
-4. **Write the chapter** in the appropriate `manuscript/` directory using the chapter format:
+4. **Check the ideas file** in `notes/ideas-and-bits.md` for any specific jokes, bits, or references to include in this chapter.
+
+5. **Write the chapter** in the appropriate `manuscript/` directory using the chapter format:
    ```markdown
    # Chapter Title
 
@@ -27,12 +29,12 @@ Follow these steps when drafting a chapter:
    Content...
    ```
 
-5. **Stay in character** — cynical, grounded, funny, practical. Never sound like a textbook.
+6. **Stay in character** — cynical, grounded, funny, practical. Never sound like a textbook.
 
-6. **Target 2,500 – 4,000 words** per chapter. Introduction and conclusion target 2,000 – 3,000 words.
+7. **Target 2,500 – 4,000 words** per chapter. Introduction and conclusion target 2,000 – 3,000 words.
 
-7. **Include concrete examples** — specific, relatable scenarios beat abstract observations.
+8. **Include concrete examples** — specific, relatable scenarios beat abstract observations.
 
-8. **End with a sharp observation or practical takeaway** (or both).
+9. **End with a sharp observation or practical takeaway** (or both).
 
-9. **Review for consistency** — make sure you haven't repeated points from other chapters.
+10. **Review for consistency** — make sure you haven't repeated points from other chapters.

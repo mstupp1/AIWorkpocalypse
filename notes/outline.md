@@ -59,22 +59,31 @@
 - Documentation that exists to prove it existed
 - Organizational scar tissue
 
-### Ch 9: Metrics as Narrative
+### Ch 9: The Ticket Industrial Complex
+- Project management tool explosion: Jira, Monday, Asana, Trello, Linear, and vibe-coded startup clones
+- Tracking work is good — for teams building things. Not everything needs a ticket.
+- Agile was already hated by the engineers it was designed for
+- Then it got bastardized and rammed down every non-engineering team's throat
+- AI-generated requirements bloating tickets — it's basically free, so why not
+- AI sidebars driving fake conversations in ticket comments
+- Tickets as performance layer: proof of how hard you're working
+
+### Ch 10: Metrics as Narrative
 - Cherry-picked KPIs
 - Goodhart's Law in practice
 - Data-driven delusion
 
-### Ch 10: Ownership Without Authority
+### Ch 11: Ownership Without Authority
 - Responsibility without power
 - RACI as fiction
 - Accountability flowing down, authority flowing up
 
-### Ch 11: The Vague Request
+### Ch 12: The Vague Request
 - The epidemic of ambiguity
 - Hidden costs of interpretation
 - Why people are vague (and what they actually want)
 
-### Ch 12: The Burden of Proof
+### Ch 13: The Burden of Proof
 - Asymmetry: you prove value, the org doesn't prove it values you
 - Performance reviews as narrative construction
 - AI intensifying the "why do we need you?" question
@@ -83,32 +92,32 @@
 
 ## Part 3: Operating Inside the System
 
-### Ch 13: Decoding Vague Requests
+### Ch 14: Decoding Vague Requests
 - Practical framework for interpretation
 - Draft-and-iterate vs. question-everything
 - Using AI for rapid prototyping of responses
 
-### Ch 14: AI as Your Production Layer
+### Ch 15: AI as Your Production Layer
 - What AI's actually good at in corporate contexts
 - Where it fails
 - Building a personal AI workflow
 
-### Ch 15: The Meeting Survival Guide
+### Ch 16: The Meeting Survival Guide
 - Participation vs. contribution
 - Strategic speaking
 - AI for prep, summary, and follow-up
 
-### Ch 16: Information Flooding
+### Ch 17: Information Flooding
 - Volume as proxy for value
 - CYA documentation
 - Strategic use of information volume
 
-### Ch 17: Corporate Communication
+### Ch 18: Corporate Communication
 - Decoding business-speak
 - Writing emails that say nothing but sound right
 - AI as translator between corporate and human
 
-### Ch 18: The Art of Satisficing
+### Ch 19: The Art of Satisficing
 - Finding the "good enough" threshold
 - Satisficing as rational strategy
 - AI as the ultimate satisficing machine
@@ -117,32 +126,32 @@
 
 ## Part 4: Stability, Survival, and Positioning
 
-### Ch 19: Layoffs and Volatility
+### Ch 20: Layoffs and Volatility
 - Layoffs as permanent feature
 - Language of downsizing
 - AI's role in justifying headcount reduction
 
-### Ch 20: The Restructuring Cycle
+### Ch 21: The Restructuring Cycle
 - Why orgs restructure (it feels like progress)
 - Surviving perpetual reorgs
 - Reading the signs
 
-### Ch 21: Avoiding Overcommitment
+### Ch 22: Avoiding Overcommitment
 - The trap of being "the reliable one"
 - Economics of saying no
 - Boundaries without becoming a target
 
-### Ch 22: Leverage and Visibility
+### Ch 23: Leverage and Visibility
 - Being known for good work vs. doing good work
 - Strategic self-promotion
 - Building a reputation that survives reorgs
 
-### Ch 23: Effort vs. Impact
+### Ch 24: Effort vs. Impact
 - High-leverage work vs. busywork
 - The 80/20 of corporate survival
 - Shifting effort with AI toward higher-impact work
 
-### Ch 24: Navigating Instability
+### Ch 25: Navigating Instability
 - Career stability in unstable systems
 - Portable skills and relationships
 - From "loyal employee" to "professional operator"

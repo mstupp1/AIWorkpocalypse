@@ -19,6 +19,9 @@ This is NOT a book about getting ahead, winning, getting promoted, or climbing t
 
 AI is both the enemy (it's coming for your job) and the tool for surviving until it does. Your duty is to hold the line, automate the bullshit, and reclaim your time.
 
+### Author's Stance on AI
+The author does NOT hate AI. He genuinely loves it. The cynicism and ridicule come from a place of appreciation — it's easy to critique the flaws of something you love, and you do it because you want it to be better. Think of it like loving cocaine: you know it's bad, you know where this is headed, but god damn if it isn't incredible in the moment. That's the energy. The book should never read as anti-AI; it should read as someone who is deeply fascinated by AI, uses it constantly, sees its absurdities clearly, and finds the whole situation both hilarious and slightly terrifying.
+
 ### Scope & Perspective
 - Focused on the **2026 landscape** with an eye toward where things are headed
 - Primarily white-collar, remote/hybrid knowledge work — the author's lived experience
