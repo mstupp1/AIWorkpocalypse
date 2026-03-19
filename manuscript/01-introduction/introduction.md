@@ -10,6 +10,12 @@ This is not a book about getting ahead. It's not about climbing the corporate la
 
 The thesis is simple: **work is broken, AI made it worse, and also AI is the best tool you have for dealing with the mess.** That's it. That's the whole book. You can stop reading now if you want. But the details are where it gets fun.
 
+## A Quick Note on Satire and Existence
+
+Before we get into those details, a disclaimer: this book is somewhat satirical for comedic effect. But underneath the jokes, it's also trying to deal with some heavy human philosophy and existentialism. We are all out here searching for meaning while machines rapidly take over our day-to-day lives. It's a deeply weird timeline to be a biological organism in.
+
+If you are not someone who intrinsically loves to work, my goal is that this book helps you, or at least makes you laugh, while also providing some brutally practical advice for surviving the machine. Should you take this advice literally? Probably not. But then again, you reliably listen to AI-generated slop all day long without questioning it, so why not just YOLO it and do exactly what this book says? It honestly can't end any worse.
+
 ## The Cracks Were Always There
 
 Corporate work has been structurally dysfunctional for decades. The cracks were there long before any of us typed our first prompt into ChatGPT. The meetings that could've been emails. The emails that could've been nothing. The quarterly planning rituals where everyone pretends the numbers are meaningful. The performance reviews where your manager reverse-engineers a narrative to justify a rating they already decided on. The documentation that exists solely so someone can point to it later and say "we followed the process." None of this is new.
