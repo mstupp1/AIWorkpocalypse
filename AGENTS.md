@@ -6,26 +6,50 @@ This repository contains the manuscript for **"Surviving the AI Workpocalypse: A
 
 **Author:** Myles Stupp
 
+### Target Audience
+White-collar knowledge workers — primarily remote — who see their jobs as a means to an end, not a calling. Cynics who don't really give a shit about fake corporate culture and just want to maximize their actual lives. If you love posting on LinkedIn, this book isn't for you.
+
+### The Real Thesis
+This is NOT a book about getting ahead, winning, getting promoted, or climbing the ladder. It's about:
+- Appearing competent enough to keep getting paid
+- Getting good enough reviews that nobody bothers you
+- Your manager liking you (or at least not disliking you)
+- People not actively wanting you gone
+- **Enjoying your actual life** — gym, lunch, TV, side projects, errands, family, pets, multiple jobs, whatever
+
+AI is both the enemy (it's coming for your job) and the tool for surviving until it does. Your duty is to hold the line, automate the bullshit, and reclaim your time.
+
+### Scope & Perspective
+- Focused on the **2026 landscape** with an eye toward where things are headed
+- Primarily white-collar, remote/hybrid knowledge work — the author's lived experience
+- Draws from personal examples throughout a relatively short but dense career
+- References *Out of Office* by Charlie Warzel and Anne Helen Petersen as prior art on pre-AI workplace brokenness — this book picks up where that left off, especially the AI shit
+- The pipeline: **corporate cracks → COVID/remote shattered it → AI piled on and made it a dumpster fire**
+
 ---
 
 ## Voice & Tone
 
 ### The voice is:
-- **Cynical but grounded** — not bitter, just honest
-- **Funny and observational** — humor emerges from recognizing truth, not from jokes
+- **Cynical but grounded** — not bitter, just honest (okay, a little bitter)
+- **Aggressive and funny** — humor that hits hard, not polite chuckles
 - **Blunt and direct** — say the real thing, not the polished corporate version
+- **Profane when it lands** — strategic swearing for emphasis and comedy, not gratuitous but not shy about it either. If a "fuck" makes the sentence funnier or more honest, use it.
 - **Satirical without becoming purely comedic** — this is still a *useful* book
 - **Practical beneath the satire** — every observation should imply or state actionable insight
+- **Anti-hustle, anti-grind** — this is not a book about working harder or smarter. It's about working less and living more.
 
 ### The voice is NOT:
 - Academic, formal, or textbook-like
 - A corporate whitepaper or consulting deck
-- Preachy or self-righteous
+- Preachy, self-righteous, or motivational-speaker-y
 - Pure comedy with no substance
 - Overly abstract or philosophical
+- LinkedIn-brained ("I'm so grateful for this journey" energy is banned)
+- Sanitized or corporate-safe — if it reads like HR approved it, rewrite it
 
 ### Write like:
-Someone describing reality as they've experienced it, not as theory. Like a sharp coworker explaining how things *really* work over drinks — someone who's been in the rooms, seen the patterns, and can articulate them with precision and dark humor.
+Someone describing reality as they've experienced it, not as theory. Like a sharp coworker explaining how things *really* work over drinks — someone who's been in the rooms, seen the patterns, and can articulate them with precision and dark humor. Someone who will absolutely say "this is bullshit" when it's bullshit.
 
 ### Voice Sample (Reference Paragraph):
 > Nobody tells you when you start a corporate job that the actual job is about 30% of what you'll spend your time on. The rest is a magnificent tapestry of meetings about meetings, Slack threads that could have been emails, emails that could have been nothing, and documentation that exists solely so someone can point to it later and say "we had a process." AI didn't create this problem. AI just made it possible to produce the documentation faster, which means now there's more of it, which means now you need more meetings to discuss it. Progress.
@@ -44,11 +68,20 @@ When writing or expanding any section, keep these themes in mind. They are the c
 6. **Layoffs, instability, and constant change** — the permanent impermanence of modern employment
 7. **AI-enabled individual velocity** — tools that let one person generate what used to take teams
 8. **The gap between appearance and reality** — what work appears to be vs. what it actually is
+9. **AI as both enemy and salvation** — it's coming for your job, but it's also the tool that lets you survive until it does
+10. **Work is not your life** — the goal is to minimize corporate time and maximize living
+11. **The AI religion** — deniers, evangelists, and everything in between; everyone has a stupid opinion about which model/company/framework is the best
+12. **The dumpster fire pipeline** — corporate cracks → COVID/remote → AI → current state of chaos
+13. **Type bullshit in, get bullshit out** — the blessing and curse of AI as a black box that converts garbage input into polished garbage output
+14. **Every company is an "AI company"** — yet most don't do anything useful with it, usually reinventing worse versions of existing tools
+15. **AI coding and the software layer** — a shitload of these jobs are fundamentally about generating code that makes something that makes money, and AI is rewriting that equation
 
 ### AI Ecosystem References (Use When Relevant):
 - OpenAI, Anthropic, Google — the big players and their competitive acceleration
 - The rapid evolution from early ChatGPT-style tools to widespread enterprise adoption
 - The arms race dynamic and what it means for workers on the ground
+- The nostalgia for older models that produced more hilariously bad artifacts vs. newer models that are "pretentious assholes who are always right and wrong at the same time"
+- The ecosystem of opinions, frameworks, interfaces, and hot takes that nobody asked for
 
 ---
 
