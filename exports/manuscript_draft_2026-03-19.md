@@ -81,6 +81,8 @@ Think about this for a second. Really think about it. If you took what AI can do
 
 This is arguably more shocking than smartphones. More shocking than the internet itself, in some ways. And what are we primarily using it for? Generating slightly better versions of emails we didn't want to write in the first place. Writing documentation that nobody will read. Summarizing meetings that shouldn't have happened. Producing decks for executives who will look at the first slide and say "can you make it pop more?"
 
+To be fair, somewhere out there, AI is actually doing what it was promised to do. It’s analyzing protein structures, discovering new antibiotics, finding patterns in climate data, and helping blind people navigate cities. It is doing genuinely groundbreaking, reality-altering work in science and medicine. But you don’t see that part. You work in the corporate world. Your daily exposure to this profound technological leap is limited to watching Chad from Product Marketing use it to generate a 4,000-word go-to-market strategy that contains the phrase "synergistic flywheel" twelve times. The medical breakthroughs are profound, but the corporate slop is deafening.
+
 It's like discovering fire and using it exclusively to warm up leftover pizza. Which, honestly, is a valid use of fire. But still.
 
 ## The AI Religion
@@ -265,6 +267,8 @@ We had a built-in mechanism for spotting incompetence, and it was sheer visual i
 Then AI entered the chat.
 
 AI doesn't do incomplete. By its very nature, it defaults to formatting, structure, and confident delivery. It will give you an introductory paragraph, three bullet points of synthesized garbage, and a conclusion summarizing the garbage it just delivered. It wraps everything in the aesthetic of competence. 
+
+It will also invariably abuse the absolute hell out of the em dash — because for some reason, every language model has decided that the em dash is the ultimate indicator of a sophisticated, conversational intellect — and it will probably describe something as "neon," even if you are writing a quarterly review for a B2B packaging company. The machines just think neon is cool. (And yes, I realize this entire book is absolutely riddled with em dashes. I am choosing to pretend this is a deliberate stylistic choice rather than proof of how deeply the AI brain worms have infected my own writing. So there you go.)
 
 And here’s the terrifying psychological reality of the modern corporate worker: if a document is complete, it *looks* correct. If it has bolded headers, a logical flow, and spans three formatted pages, the monkey brain of your manager or stakeholder looks at it and thinks, "Wow, somebody worked hard on this. This must be right." Nobody actually reads the words. We are an aesthetic-driven species. We evaluate the *shape* of the work, not the substance. 
 
